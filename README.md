@@ -1,14 +1,18 @@
-Problem Statement
+Problem Statement:
+
     StayHealthy conducted an extensive survey to assess the medical facilities available in remote areas and found that several patients have a tough time finding the right doctor at the right time. There are        usually no doctors or hospitals within a 50-mile radius, or the wait time to meet a doctor is too long. Many times, this has resulted in life-threatening emergencies or lost lives.
     With the internet and broadband availability increasing in remote areas, the initiative from StayHealthy will help get patients access to general physicians and specialists at the right time easily.
 
 
-Project Requirements
+Project Requirements:
+
     A user-friendly, intuitive, and accessible platform that helps connect patients with doctors and specialists for consultations and medical prescriptions
 
 
 
-Features
+Features:
+
+
     Medical appointments online
         -The website would allow patients to schedule appointments with doctors anywhere, anytime.
         -Consultation would be available, doctors at any time should be possible without prior appointments.
